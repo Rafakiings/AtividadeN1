@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AtividadeN1</string>
+
+    <string-array name="level">
+        <item>Selecione...</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="classes">
+        <item>Selecione...</item>
+        <item>Guerreiro</item>
+        <item>Mago</item>
+        <item>Bárbaro</item>
+        <item>Feiticeiro</item>
+        <item>Drúida</item>
+        <item>Bruxo</item>
+        <item>Patrulheiro</item>
+        <item>Clérigo</item>
+    </string-array>
+
+    <string name="txtNome">Name: </string>
+    <string name="txtFone">Phone: </string>
+    <string name="txtHintNome">Insert your name: </string>
+    <string name="txtHintFone">Insert your phone: </string>
+    <string name="txtEstado">State: </string>
+
+    <string name="txtTurno">Study in which shift?</string>
+    <string name="txtManha">Morning</string>
+    <string name="txtNoite">Night</string>
+    <string name="txtSalvar">Save</string>
+
+</resources>
